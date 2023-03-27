@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutomizuta&layout=compact&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutomizuta&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yutomizuta&layout=compact&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yutomizuta&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutomizuta&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
