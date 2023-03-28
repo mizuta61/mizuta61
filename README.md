@@ -17,4 +17,5 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yutomizuta&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yutomizuta&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- トロフィー -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yutomizuta&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
