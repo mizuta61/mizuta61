@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yutomizuta&layout=compact&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yutomizuta&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
 
-<!-- トロフィー -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yutomizuta&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yutomizuta&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yutomizuta&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yutomizuta&theme=aura)
